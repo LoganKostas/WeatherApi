@@ -1,0 +1,19 @@
+.card{
+    background-color: aqua;
+}
+
+body{
+    background-image: url('https://www.survivingwithandroid.com/wp-content/uploads/2014/11/android_weather_app.jpg');
+}
+
+#welcome-text{
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px gray ;
+    margin-bottom: 200px;
+}
+
+#current-forecast{
+    margin: 10px;
+}
+
